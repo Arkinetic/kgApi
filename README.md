@@ -1,4 +1,4 @@
-# kgApi
+# kgApi ![1](https://img.shields.io/npms-io/quality-score/o)
 Key Generator API 
 -----------------
 How to get started
@@ -10,4 +10,4 @@ Make sure to add
 using kgApi;
 ```
 At the top of your usings.
-![This is an a](https://img.shields.io/npms-io/quality-score/o)
+
