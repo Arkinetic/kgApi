@@ -10,3 +10,4 @@ Make sure to add
 using kgApi;
 ```
 At the top of your usings.
+![This is an a](https://img.shields.io/npms-io/quality-score/o)
