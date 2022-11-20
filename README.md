@@ -1,3 +1,3 @@
 # kgApi
 Key Generator API 
--- How to get started
+# How to get started
