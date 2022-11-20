@@ -1,2 +1,3 @@
 # kgApi
-Key Generator API created by Arkinetic(Aristois/Me)
+Key Generator API 
+-- How to get started
