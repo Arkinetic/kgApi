@@ -9,7 +9,7 @@ Start by importing the api(dll) into your project.
 ```cs
 using kgApi;
 ```
-### Next create an instance of keygen
+### Next create an instance of keygen:
 ```cs
 keygen kgapi = new keygen();
 ```
